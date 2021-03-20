@@ -8,7 +8,9 @@ Feel free to look at my [repositories](https://github.com/bul-ikana?tab=reposito
 
 ---
 <div align="center">
-	<a href="https://twitter.com/hugoagmtz"><img src="img/twitter.svg" width="32" height="32"></a>
-	<a href="https://www.linkedin.com/in/hugoaguirre/"><img src="img/linkedin.svg" width="32" height="32"></a>
-	<a href="https://bul-ikana.itch.io/"><img src="img/itchio.svg" width="32" height="32"></a>
+	<a href="https://twitter.com/hugoagmtz"><img src="img/twitter.svg" width="24" height="24"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/hugoaguirre/"><img src="img/linkedin.svg" width="24" height="24"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://bul-ikana.itch.io/"><img src="img/itchio.svg" width="24" height="24"></a>
 </div>
