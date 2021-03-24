@@ -7,10 +7,13 @@ I am a full-stack software developer, engineer, and craftsman from Puebla, Mexic
 Feel free to look at my [repositories](https://github.com/bul-ikana?tab=repositories) to see the random stuff I may be currently working on. You can also take a look at my [portfolio](posts/portfolio.md) to see some highlights.
 
 ---
+
 <div align="center">
 	<a href="https://twitter.com/hugoagmtz"><img src="img/twitter.svg" width="24" height="24"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/hugoaguirre/"><img src="img/linkedin.svg" width="24" height="24"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://bul-ikana.itch.io/"><img src="img/itchio.svg" width="24" height="24"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://dev.to/bool"><img src="img/dev.svg" width="24" height="24"></a>
 </div>
