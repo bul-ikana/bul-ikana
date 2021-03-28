@@ -7,7 +7,6 @@ A website that gathers statistics about official tournaments of the Pokémon Vid
 <br>
 <br>
 <br>
-<br>
 
 <a href="https://github.com/bul-ikana/vgcstats">
 	<img src="../img/readmore.svg">
