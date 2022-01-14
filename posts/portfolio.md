@@ -7,6 +7,7 @@ A simple note taking app 🍃
 <br>
 <br>
 <br>
+<br>
 
 <a href="https://github.com/bul-ikana/leafbook">
 	<img src="../img/readmore.svg">
@@ -27,6 +28,7 @@ A website that gathers statistics about official tournaments of the Pokémon Vid
 <br>
 <br>
 <br>
+<br>
 
 <a href="https://github.com/bul-ikana/vgcstats">
 	<img src="../img/readmore.svg">
@@ -35,5 +37,5 @@ A website that gathers statistics about official tournaments of the Pokémon Vid
 <a href="https://bul-ikana.github.io/vgcstats/#/">
 	<img src="../img/watchlive.svg">
 </a>
-<br>
+
 ---
